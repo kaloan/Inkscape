@@ -1,6 +1,7 @@
 # Constuctions
 
-Rhombus is done by intersecting two triangles. <br>
+- Rhombus is done by intersecting two triangles.
+- Straight line horizontal/vertical by bezier + hold \<Ctrl\> (which is used to restrict angle to nearest 15deg).
 
 # Object operations
 
@@ -8,6 +9,7 @@ Rhombus is done by intersecting two triangles. <br>
 - Set operations change color to the one of the object on the lowest level.
 - Object &#10140; Transform for exact translation and rotation.
 
-# Inkscape
+# Environment
+- Preferences &#10140; Tools &#10140; Select "Geometric bounding box".
 - Snapping is disabled by default. Use the UI on the right to work with it.
 - To add new layer: Object &#10140; Objects &#10140; \<Right-click\> on any in the list &#10140; Add layer...
