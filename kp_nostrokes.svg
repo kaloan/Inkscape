@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="247.40385mm"
-   height="379.08762mm"
-   viewBox="0 0 247.40385 379.08762"
+   width="252.35194mm"
+   height="386.66937mm"
+   viewBox="0 0 252.35194 386.66938"
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -35,9 +35,9 @@
      inkscape:snap-object-midpoints="false"
      inkscape:snap-center="true"
      inkscape:snap-text-baseline="true"
-     inkscape:zoom="5.3664983"
-     inkscape:cx="475.13436"
-     inkscape:cy="831.95399"
+     inkscape:zoom="0.47433592"
+     inkscape:cx="987.50061"
+     inkscape:cy="704.93522"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -52,7 +52,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(450.80262,-457.29093)">
+     transform="translate(453.27666,-453.50005)">
     <path
        style="fill:#ad8152;fill-opacity:1;stroke:none;stroke-width:0.346341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -330.02151,789.50125 26.37813,-15.33342 -8.7527,6.40414 -6.61523,4.41381 z"
@@ -86,7 +86,7 @@
        d="m -421.4102,796.12317 -6.97157,-8.25987 11.93389,10.37047 z"
        id="path2861" />
     <path
-       style="fill:#452f2b;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#452f2b;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -329.86181,669.81306 -0.32731,0.0847 0.75734,20.02206 z"
        id="path3804" />
   </g>
@@ -95,24 +95,24 @@
      id="layer3"
      inkscape:label="Eyes"
      style="display:inline"
-     transform="translate(450.80262,-457.29093)" />
+     transform="translate(453.27666,-453.50005)" />
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Fingers"
      style="display:inline"
-     transform="translate(450.80262,-457.29093)" />
+     transform="translate(453.27666,-453.50005)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="LowPoly"
      style="display:inline"
-     transform="translate(450.80262,-457.29093)" />
+     transform="translate(453.27666,-453.50005)" />
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Shirt"
-     transform="translate(450.80262,-457.29093)">
+     transform="translate(453.27666,-453.50005)">
     <path
        style="display:inline;fill:#935932;fill-opacity:1;stroke:none;stroke-width:0.346341px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -358.16177,532.06455 7.03697,-4.65436 2.3351,0.63192 0.78363,2.44972 -4.30837,3.99701 -1.89242,4.47511 z"

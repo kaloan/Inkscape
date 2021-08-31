@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="288.73209mm"
+   height="283.53537mm"
+   viewBox="0 0 288.73209 283.53538"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="ying-yang-transparent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.01"
+     inkscape:cx="19350"
+     inkscape:cy="-8650"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(243.36605,17.261305)">
+    <g
+       id="g2217"
+       transform="matrix(1.9262235,0,0,1.9262235,-361.88634,-198.17364)">
+      <ellipse
+         style="fill:#ffffff;stroke-width:5.34471;stroke-linecap:round"
+         id="path1173-2"
+         cx="173.9252"
+         cy="166.16881"
+         rx="37.500092"
+         ry="37.599998" />
+      <path
+         style="opacity:1;fill:#ffffff;stroke-width:5.67616;stroke-linecap:round"
+         d="M 136.24722,93.920739 A 75.000183,75.000183 0 0 0 61.615151,163.78719 37.500092,37.500092 0 0 1 98.747858,131.42088 37.500092,37.500092 0 0 1 136.24722,168.921 37.50009,37.50009 0 0 1 173.74734,131.42088 37.50009,37.50009 0 0 1 211.23507,167.95516 75.000183,75.000183 0 0 0 136.24722,93.920739 Z"
+         id="path846" />
+      <path
+         style="opacity:1;stroke-width:5.67616;stroke-linecap:round"
+         d="m 136.52968,166.11881 a 37.500091,37.500091 0 0 1 -37.49935,37.49935 37.500091,37.500091 0 0 1 -37.132707,-32.36788 75.000183,75.000183 0 0 0 74.632057,69.86801 75.000183,75.000183 0 0 0 74.89561,-72.19733 37.500091,37.500091 0 0 1 -37.39548,34.6972 37.500091,37.500091 0 0 1 -37.50013,-37.49935 z"
+         id="path1417" />
+      <circle
+         style="opacity:1;fill:#000000;stroke-width:5.3376;stroke-linecap:round"
+         id="path1173"
+         cx="99.029968"
+         cy="166.11844"
+         r="37.500092" />
+      <circle
+         style="fill:#ffffff;stroke-width:1.77919;stroke-linecap:round"
+         id="path1173-0-4"
+         cx="99.029968"
+         cy="166.11844"
+         r="12.5" />
+      <circle
+         style="fill:#000000;stroke-width:1.77919;stroke-linecap:round"
+         id="path1173-0-4-3"
+         cx="174.02979"
+         cy="165.06305"
+         r="12.5" />
+    </g>
+  </g>
+</svg>
