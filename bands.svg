@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="bands.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.49071405"
+     inkscape:cx="-102.91126"
+     inkscape:cy="604.22154"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#ffb380;stroke-width:1;stroke-linecap:round;-inkscape-stroke:none"
+       d="m -89.983427,138.60371 c 0.70773,3.64419 1.09244,7.39977 1.09245,11.2448 0,33.06497 -27.354433,59.90021 -61.660323,59.90021 -34.30588,0 -61.66187,-26.83524 -61.66187,-59.90021 0,-3.65142 0.33488,-7.22629 0.97462,-10.69806 l -10.97504,11.0939 -9.45576,-9.58443 c -0.35497,3.01562 -0.54415,6.08022 -0.54415,9.18859 0,44.14594 36.81301,79.90054 81.6622,79.90054 44.8492,0 81.660133,-35.7546 81.660133,-79.90054 0,-3.21857 -0.21823,-6.38556 -0.59842,-9.50433 l -9.40097,9.50329 z"
+       id="path2453" />
+    <path
+       style="color:#000000;fill:#cccccc;stroke-width:1;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 124.65783,34.710636 c -33.253647,0 -62.083879,19.66002 -74.771666,47.819304 L 74.436603,79.764216 C 85.575384,64.598823 103.8355,54.71045 124.65783,54.71045 c 22.65307,0 42.26837,11.706201 52.98487,29.175995 l 21.28759,-2.398302 C 186.00528,53.891459 157.4966,34.710636 124.65783,34.710636 Z"
+       id="path2427"
+       inkscape:label="path2427" />
+    <rect
+       style="fill:#ff0000;stroke:none;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1560"
+       width="92.739006"
+       height="92.739006"
+       x="-169.84178"
+       y="-38.82098" />
+    <ellipse
+       style="opacity:0;fill:#ffb380;stroke:none;stroke-width:182.24;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path13363"
+       cx="188.11671"
+       cy="97.14447"
+       rx="81.777939"
+       ry="80.765053"
+       transform="matrix(-0.95419447,0.29918708,0.29918708,0.95419447,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4052px;line-height:1.25;font-family:'Swis721 BlkEx BT';-inkscape-font-specification:'Swis721 BlkEx BT';letter-spacing:2.64583px;opacity:0.2;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46013"
+       id="text2965"><textPath
+         xlink:href="#path13363"
+         id="textPath13446"><tspan
+           id="tspan2963"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swis721 BlkEx BT';-inkscape-font-specification:'Swis721 BlkEx BT';stroke-width:0.46013">SAMPLE TEXT</tspan></textPath></text>
+    <path
+       id="path24291"
+       style="color:#000000;fill:#ff0000;stroke-width:3.77953;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 53.791016,692.96094 c 0,173.60768 141.341554,314.95506 314.949214,314.95506 173.60769,0 314.95508,-141.34738 314.95508,-314.95506 l -26.30785,34.64339 -30.38355,-34.64339 c 0,142.96856 -115.29511,258.26172 -258.26368,258.26172 -142.96857,0 -258.25585,-115.29316 -258.25585,-258.26172 l -26.308835,34.64339 z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="cscccsccc" />
+  </g>
+</svg>

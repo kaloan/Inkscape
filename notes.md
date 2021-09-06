@@ -13,6 +13,7 @@
 - Preferences &#10140; Tools &#10140; Select "Geometric bounding box".
 - Snapping is disabled by default. Use the UI on the right to work with it.
 - To add new layer: Object &#10140; Objects &#10140; \<Right-click\> on any in the list &#10140; Add layer...
-- Layer &#10140; Move selection to [...] to easily move between layers
-- \<Ctrl-D\> to duplicate right on top of the same object
-- \<Ctrl-Alt-D\> to clone - all changes to original item also cascades to its clones
+- Layer &#10140; "Move selection to [...]" to easily move between layers.
+- Copy-Paste pastes the entire selection to the current layer!
+- \<Ctrl-D\> to duplicate right on top of the same object. Duplicating preserves layers!
+- \<Ctrl-Alt-D\> to clone - all changes to original item also cascades to its clones. Cloning preserves layers!
